@@ -1,29 +1,49 @@
 ### 👋 Hi, I'm Soumodip Ghosh
 
-[cite_start]I'm a recent **graduate** from **VIT Vellore** with a B.Tech in Electronics and Communication (CGPA: 8.58)[cite: 3, 4, 10]. I'm passionate about building full-stack applications and solving problems with code.
+I'm a recent **graduate** from **VIT Vellore** with a B.Tech in Electronics and Communication (CGPA: 8.58). I'm passionate about building full-stack applications and solving problems with code.
 
-[cite_start]I'm excited to be joining **TCS** as a **System Engineer (Digital Role)**[cite: 17, 20].
+I'm excited to be joining **TCS** as a **System Engineer (Digital Role)**.
 
 Previously, I've had the opportunity to work as:
-* [cite_start]**Head of Technical Operations** at Skilledity, where I led a team of 15 and built a full-stack website from scratch[cite: 21, 22, 23].
-* [cite_start]**Research Intern** at **DRDO**, developing a microcontroller-based IoT fire detection system[cite: 24, 26].
-* [cite_start]**JAVA Developer** at Tech Straver, where I built several GUI-based applications.
+* **Head of Technical Operations** at Skilledity, where I led a team of 15 and built a full-stack website from scratch.
+* **Research Intern** at **DRDO**, developing a microcontroller-based IoT fire detection system.
+* **JAVA Developer** at Tech Straver, where I built several GUI-based applications.
+
+<br>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumogit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Soumodip's GitHub Stats" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumogit&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Soumodip's Top Languages" width="48%"/>
+</p>
+
+<br>
 
 ---
 
 ### 💻 My Tech Stack
 
 | Programming & Dev | Web & Application | Databases | Tools & Platforms |
-| :--- | :--- | :--- | :--- |
-| [cite_start]Java [cite: 12] | [cite_start]React.js [cite: 13] | [cite_start]SQL [cite: 13] | [cite_start]Git [cite: 14] |
-| [cite_start]Python [cite: 12] | [cite_start]HTML & CSS [cite: 13] | [cite_start]MySQL [cite: 13] | [cite_start]VS Code [cite: 14] |
-| [cite_start]OOPs Concepts [cite: 12] | [cite_start]Full-Stack Dev [cite: 13] | [cite_start]PostgreSQL [cite: 13] | [cite_start]IntelliJ IDEA [cite: 14] |
-| [cite_start]SQL [cite: 12] | [cite_start]AWS [cite: 13] | | [cite_start]Postman (API Testing) [cite: 15] |
-| [cite_start]C++ (Basics) [cite: 12] | [cite_start]Bootstrap [cite: 13] | | [cite_start]Linux & Windows [cite: 14] |
+| :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> |
+| <img src="https://img.shields.io/badge/OOPs-grey?style=for-the-badge"> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> |
+| <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> | | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> |
+| | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> | | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> |
+| | <img src="https://img.shields.io/badge/Full_Stack_Dev-2a9d8f?style=for-the-badge"> | | <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> |
+
+
+<br>
 
 ---
 
 ### 📫 Get In Touch
 
-* [cite_start]**Email:** gsoumodip45@gmail.com [cite: 2]
-* [cite_start]**LinkedIn:** @soumodip_linkedin [cite: 2] (Use your actual LinkedIn username here)
+<p align="left">
+<a href="mailto:gsoumodip45@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/Your-LinkedIn-Username-Here" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
