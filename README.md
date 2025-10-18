@@ -9,15 +9,32 @@ Previously, I've had the opportunity to work as:
 * **Research Intern** at **DRDO**, developing a microcontroller-based IoT fire detection system.
 * **JAVA Developer** at Tech Straver, where I built several GUI-based applications.
 
-<br>
+---
+
+### 🌟 Featured Project: HealthChat AI
+
+A full-stack AI healthcare assistant for comprehensive diagnosis, appointment booking, and health tracking.
+
+#### Key Features
+* 🤖 **AI-Powered Analysis:** Integrates with the Gemini API for intelligent symptom analysis.
+* 🏥 **Hospital & Booking:** Users can search for nearby hospitals and book appointments.
+* 🩺 **Health Tracking:** A dedicated dashboard for tracking personal health metrics.
+* 🚑 **Emergency Ready:** Features an emergency queue handling system.
+
+#### Links
+<p>
+  <a href="PASTE_YOUR_LIVE_DEMO_URL_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://github.com/soumogit/HealthChat" target="_blank">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-<br>
-
----
-
-### 💻 My Tech Stack
+### 💻 My Core Tech Stack
 
 | Programming & Dev | Web & Application | Databases | Tools & Platforms |
 | :---: | :---: | :---: | :---: |
@@ -31,25 +48,6 @@ Previously, I've had the opportunity to work as:
 
 <br>
 
----
-
-### 🌟 Featured Project: HealthChat - AI Healthcare Assistant
-
-<p>A full-stack AI-powered healthcare platform with Gemini API integration for symptom analysis, hospital search, appointment booking, and health metric tracking.</p>
-
-<img src="PASTE_YOUR_SCREENSHOT_LINK_HERE" alt="HealthChat Demo" width="600"/>
-
-<p>
-  <strong>Technologies Used:</strong><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<br>
 ---
 
 ### 📫 Get In Touch
