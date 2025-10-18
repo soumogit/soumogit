@@ -13,14 +13,6 @@ Previously, I've had the opportunity to work as:
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soumogit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Soumodip's GitHub Stats" width="48%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumogit&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Soumodip's Top Languages" width="48%"/>
-</p>
-
 <br>
 
 ---
@@ -39,6 +31,25 @@ Previously, I've had the opportunity to work as:
 
 <br>
 
+---
+
+### 🌟 Featured Project: HealthChat - AI Healthcare Assistant
+
+<p>A full-stack AI-powered healthcare platform with Gemini API integration for symptom analysis, hospital search, appointment booking, and health metric tracking.</p>
+
+<img src="PASTE_YOUR_SCREENSHOT_LINK_HERE" alt="HealthChat Demo" width="600"/>
+
+<p>
+  <strong>Technologies Used:</strong><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
+
+<br>
 ---
 
 ### 📫 Get In Touch
