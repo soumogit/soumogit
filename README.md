@@ -51,6 +51,24 @@ A full-stack AI healthcare assistant for comprehensive diagnosis, appointment bo
 
 ---
 
+### 🎨 Beyond The Code
+
+When I'm not coding, you'll find me:
+
+* 🗺️ **Exploring India** – Traveling across our incredible country, discovering new places, cultures, and stories. From the Himalayas to the backwaters, every journey inspires my creativity and problem-solving approach.
+
+* ✏️ **Sketching & Drawing** – I love bringing ideas to life on paper. Whether it's doodling UI concepts or capturing landscapes from my travels, drawing helps me think visually and fuels my design sensibility.
+
+> *"Code is poetry, travel is adventure, and art is expression – all three shape how I see and build solutions."*
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌏_Traveler-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🎨_Artist-4ECDC4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/💻_Developer-95E1D3?style=for-the-badge">
+</p>
+
+---
+
 ### 📫 Get In Touch
 
 <p align="left">
