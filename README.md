@@ -23,11 +23,11 @@ A full-stack AI healthcare assistant for comprehensive diagnosis, appointment bo
 
 #### Links
 <p>
-  <a href="PASTE_YOUR_LIVE_DEMO_URL_HERE" target="_blank">
+  <a href="[PASTE_YOUR_LIVE_DEMO_URL_HERE](https://v0-advancedhealthybot.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-00A693?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://github.com/soumogit/HealthChat" target="_blank">
+  <a href="[https://github.com/soumogit/HealthChat](https://github.com/soumogit/AI_Advanced_Chatbot)" target="_blank">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
